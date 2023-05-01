@@ -1,0 +1,11 @@
+{
+    "index": "Home",
+    "---": {
+        "type": "separator"
+    },
+    "github_link": {
+        "title": "GitHub",
+        "href": "https://github.com/abdurakhman-uz/blog",
+        "newWindow": true
+    }
+}
