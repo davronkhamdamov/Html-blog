@@ -1,5 +1,19 @@
 {
     "index": "Home",
+    "chat": {
+        "title": "Chat",
+        "type": "menu",
+        "items": {
+            "xinux": {
+                "title": "Xinux",
+                "href": "https://t.me/xinuxuz"
+            },
+            "linuxuzbek": {
+                "title": "Linux Uzbek",
+                "href": "https://t.me/linux_uzbek"
+            }
+        }
+    },
     "topics": "Distros",
     "----": {
         "type": "separator"
