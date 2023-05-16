@@ -1,0 +1,8 @@
+{
+    "archlinux": "ArchLinux",
+    "debian": "Debian",
+    "fedora": "Fedora",
+    "kali": "Kali Linux",
+    "mint": "Linux Mint",
+    "ubuntu": "Ubuntu"
+}
