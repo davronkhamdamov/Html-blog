@@ -29,7 +29,8 @@ HTMLni o'rganish juda oson - bu sizga yoqadi!
     </html>
 ```
 
-## Tepadagi Misol tushuntiriladi
+## Tepadagi misolni tushunish uchun pastagi matnga qarang: 
+
 - `<!DOCTYPE html>` deklaratsiyasi ushbu hujjat HTML5 hujjati ekanligini belgilaydi
 - `<html>` elementi HTML sahifasining ildiz elementidir
 - `<head>` elementi HTML sahifasi haqidagi meta-ma'lumotni o'z ichiga oladi
