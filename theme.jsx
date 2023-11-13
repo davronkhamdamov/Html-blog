@@ -1,9 +1,9 @@
 export default {
   logo: <span>Linux Blog</span>,
   project: {
-    link: 'https://github.com/abdurakhman-uz/blog',
+    link: '',
   },
-  docsRepositoryBase: 'https://github.com/abdurakhman-uz/blog/',
+  docsRepositoryBase: '',
 
   head: (
     <>
